@@ -9,5 +9,9 @@
 
 <img src="./images/ScreenshotProject.png"/>
 
-### Made By : Yeabsera Bekele 
+***
+### License
+
+Copyright © Dec,2020, [Yeabsera Bekele](https://github.com/YeabseraBekele).
+
 
