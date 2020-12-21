@@ -7,6 +7,10 @@
 * Button to reset the game any time with confirmation
 * Score is displayed with the total game played
 
+## Links
+* Live Example - https://festive-bhaskara-c50660.netlify.app
+* Github - https://github.com/YeabseraBekele
+
 <img src="./images/ScreenshotProject.png"/>
 
 ***
